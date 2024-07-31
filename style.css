@@ -1,0 +1,60 @@
+.good{
+    color: brown;
+}
+.good1{
+    color: chartreuse;
+}
+#good2{
+    color: cyan;
+}
+.square{
+    width: 300px;
+    height: 300px;
+    border: 5px solid red;
+    background-color: black;
+}
+.restangle{
+    width: 500px;
+    height: 200px;
+    background-color: fuchsia;
+    border: 5px solid yellow;
+}
+.circle{
+    width: 300px;
+    height: 300px;
+    background-color: darkblue;
+    border: 3px solid rgb(200, 225, 38);
+    border-radius: 50%;
+}
+.text{
+    font-size: 50px;
+}
+.cont{
+    width: 500px ;
+    height: 300px;
+    border: 4px solid red;
+}
+.item{
+    width: 200px ;
+    height:200px ;
+    background-color: blueviolet;
+    margin: 20px;
+    padding: 30px;
+}
+.cont2{
+    width: 500px;
+    height: 600px;
+    border: 2px solid red;
+}
+.item2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 20px ;
+    
+}
+.object{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
