@@ -8,6 +8,7 @@
     color: cyan;
 }
 .square{
+    
     width: 300px;
     height: 300px;
     border: 5px solid red;
@@ -64,15 +65,36 @@
     background-color: chocolate;
 }
 .pozicia2{
-    position: fixed;
+    
     width: 300px;
     height: 300px;
     background-color: rgb(21, 223, 11);
     border: 3px solid rgb(49, 14, 203);
     margin-left: 200px;
-    
 }
-.body{
+
+.araferi{
+    
+    width: 200px;
+    height: 200px;
+    background-color: rgb(181, 159, 159);
+    border: 3px solid black;
+}
+body{
     height: 1200px;
-    color: rgb(18, 12, 12);
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    width: 600px;
+    height: 200px;
+    border: 2px solid rgb(25, 25, 16);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(217, 255, 0);
+    margin: 10px;
 }
